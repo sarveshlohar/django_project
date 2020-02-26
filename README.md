@@ -1,6 +1,6 @@
 # django_project
 
-open command prompt
+open command prompt \n
 type "pip install django"
 type "pip install django-bootstrap4"
 type "python manage.py runserver" to start on localhost
