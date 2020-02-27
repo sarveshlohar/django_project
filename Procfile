@@ -1,0 +1,1 @@
+web: gunicorn dacc_project.wsgi
