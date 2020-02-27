@@ -14,5 +14,5 @@ type "python manage.py runserver 'ipaddress:port'" to access on lan
   
 now open browser and type "localhost:8000" or "ipaddress:port"
   
-Web app is built by using Bootstrap4 and Django
+Web app is built by using Html, Bootstrap4 and Django
 
