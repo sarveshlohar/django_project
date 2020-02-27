@@ -1,4 +1,5 @@
 # django_project
+install python3
 
 open command prompt 
 
