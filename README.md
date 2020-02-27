@@ -10,9 +10,9 @@ type "python manage.py runserver" to start on localhost
 
 or else
 
-type "python manage.py runserver <ipaddress with port>" to access on lan
+type "python manage.py runserver 'ipaddress:port'" to access on lan
   
-now open browser and type "localhost:8000" or "<ipaddress>:<port>"
+now open browser and type "localhost:8000" or "ipaddress:port"
   
 Web app is built by using Bootstrap4 and Django
 
