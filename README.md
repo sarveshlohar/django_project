@@ -4,7 +4,7 @@ install python3
 <h3> Django App </h3><br>
 A static website.Web app is built by using Html, Bootstrap4 and Django.
 
-<h3>Steps to run</h3><br>
+<h3>Steps to Run</h3><br>
 1. Clone respository <br>
 2. Open command prompt <br>
 3. Type<b>"pip install django"</b> <br>
