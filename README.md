@@ -11,7 +11,7 @@ A static website.Web app is built by using Html, Bootstrap4 and Django.
 4. Type<b>"pip install django-bootstrap4"</b> <br>
 5. Type<b>"python manage.py runserver"</b> to start on localhost <br>
 or else <br>
-5. Type "python manage.py runserver ipaddress:port" to access on lan <br>
+5. Type <b>"python manage.py runserver ipaddress:port"</b> to access on lan <br>
 6. Now open browser and type <b>"http://localhost:8000"</b> or <b>"http://ipaddress:port"</b> <br>
   
 
