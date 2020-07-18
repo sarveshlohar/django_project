@@ -2,7 +2,7 @@
 
 
 <h3> Django App </h3><br>
-A static website.Web app is built by using Html, Bootstrap4 and Django.
+A static website built by using Html, Bootstrap4 and Django.
 
 <h3>Steps to Run</h3><br>
 1. install <b>python3</b><br>
